@@ -3,44 +3,44 @@
 <br/>
 
 - <b>Azure Network Security Groups</b>
-  - [Creating a virtual machine in Microsoft Azure](https://github.com/nph84/Network-Security-Groups-and-Inspecting-Network-Protocols)
-  - [Observe ICMP traffic](https://github.com/nph84/Observing-ICMP-traffic)
-  - [Observe SSH traffic](https://github.com/nph84/Observe-SSH-traffic)
-  - [Observe DHCP traffic](https://github.com/nph84/Observe-DHCP-traffic)
-  - [Observe DNS traffic](https://github.com/nph84/Observe-DNS-traffic)
-  - [Observe RDP traffic](https://github.com/nph84/Observe-RDP-traffic)
+  - [Creating a virtual machine in Microsoft Azure](https://github.com/DeqwanFraser/Creating-virtual-machines-in-Microsoft-Azure)
+  - [Observe ICMP traffic](https://github.com/DeqwanFraser/Observe-ICMP-traffic-Public)
+  - [Observe SSH traffic](https://github.com/DeqwanFraser/Observe-SSH-traffic)
+  - [Observe DHCP traffic](https://github.com/DeqwanFraser/Observe-DHCP-traffic)
+  - [Observe DNS traffic](https://github.com/DeqwanFraser/Observe-DNS-traffic)
+  - [Observe RDP traffic](https://github.com/DeqwanFraser/Observe-RDP-traffic)
 <br/>
 
   
 - <b>osTicket: Post Installation Configuration</b>
-  - [Setup a virtual machine in Azure](https://github.com/nph84/Setup-a-virtual-machine-in-Azure)
-  - [osTicket Installation](https://github.com/nph84/Install-osTicket)
-  - [osTicket Post-Installation Setup](https://github.com/nph84/After-installation-config-of-osTicket)
-  - [Explore osTicket as a Help Desk Professional](https://github.com/nph84/Explore-osTicket-as-a-Help-Desk-Professional)
+  - [Setup a virtual machine in Azure](https://github.com/DeqwanFraser/Setup-a-virtual-machine-in-Azure)
+  - [osTicket Installation](https://github.com/DeqwanFraser/Install-osTicket)
+  - [osTicket Post-Installation Setup](https://github.com/DeqwanFraser/After-installation-config-of-osTicket)
+  - [Explore osTicket as a Help Desk Professional](https://github.com/DeqwanFraser/Explore-osTicket-as-a-Help-Desk-Professional)
 <br/>
 
 
 - <b>Virtual Private Network</b>
-  - [VPN Setup in a Virtual Machine ](https://github.com/nph84/VPN-Setup-in-a-Virtual-Machine)
+  - [VPN Setup in a Virtual Machine ](https://github.com/DeqwanFraser/VPN-Setup-in-a-Virtual-Machine)
  <br/>
 
  
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/nph84/Preparing-Active-Directory-Infrastructure-in-Azure)
-  - [Configuring and deploying Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
-  - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
-  - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/DeqwanFraser/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Configuring and deploying Active Directory within Azure VMs](https://github.com/DeqwanFraser/Configuring-Active-Directory-within-Azure-VMs)
+  - [Creating users with PowerShell](https://github.com/DeqwanFraser/Creating-users-with-PowerShell)
+  - [Group policy and managing accounts](https://github.com/DeqwanFraser/Group-policy-and-managing-accounts)
 <br/>
 
 
 - <b>DNS</b>
-  - [Practicing with DNS](https://github.com/nph84/Practicing-DNS)
+  - [Practicing with DNS](https://github.com/DeqwanFraser/Practicing-DNS)
 <br/>
 
 
 
 - <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions](https://github.com/nph84/Network-File-Shares-and-Permissions)
+  - [Network File Shares and Permissions](https://github.com/DeqwanFraser/Network-File-Shares-and-Permissions)
 
 <br/>
 
