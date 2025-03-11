@@ -7,7 +7,7 @@
   - [Observe ICMP traffic](https://github.com/DeqwanFraser/Observe-ICMP-traffic-Public)
   - [Observe SSH traffic](https://github.com/DeqwanFraser/Observe-SSH-traffic)
   - [Observe DHCP traffic](https://github.com/DeqwanFraser/Observe-DHCP-traffic)
-  - [Observe DNS traffic](https://github.com/DeqwanFraser/Observe-DNS-traffic)
+  - [Observe DNS traffic](https://github.com/DeqwanFraser/Observe-DNS-traffic-Public)
   - [Observe RDP traffic](https://github.com/DeqwanFraser/Observe-RDP-traffic)
 <br/>
 
@@ -37,12 +37,6 @@
   - [Practicing with DNS](https://github.com/DeqwanFraser/Practicing-DNS)
 <br/>
 
-
-
-- <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions](https://github.com/DeqwanFraser/Network-File-Shares-and-Permissions)
-
-<br/>
 
 
 
